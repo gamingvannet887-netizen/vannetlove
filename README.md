@@ -1,4 +1,5 @@
-git clone https://github.com/angkerith1/rithtopup-site.git
+<h1>សួស្តី 👋</h1>
+<p>នេះជាវេបសាយរបស់ខ្ញុំ</p>git clone https://github.com/angkerith1/rithtopup-site.git
 cd rithtopup-site
 npm install
 cp .env.example .env
